@@ -9,13 +9,13 @@
     <lastBuildDate>Mon, 22 Dec 2025 22:25:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Linking Digital Image Observations to Physics</title>
+      <title>Linking Digital Image Operations to Physics</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 22 Dec 2025 22:25:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Color is a &lt;strong&gt;perceptual&lt;/strong&gt; phenomenon. The perception of color involves both physics and the brain.&lt;/p&gt;
-&lt;p&gt;What we perceive as color is electromagnetic radiation coming off a surface as a spectral power distribution. A tomato appears red because its surface reflects radiation mostly around 700 nm.&lt;/p&gt;
-&lt;p&gt;The human eye has three kinds of color‑sensitive cells for perceiving color: short, medium, and long wavelength cones, each sensitive to wavelengths that correspond roughly to blue, green, and red channels.&lt;/p&gt;</description>
+      <description>&lt;p&gt;What we perceive as color is electromagnetic radiation coming off a surface as a spectral power distribution. A tomato appears red because its surface reflects radiation mostly around 700 nm.&lt;/p&gt;
+&lt;p&gt;The human eye has three kinds of color‑sensitive cells for perceiving color: short, medium, and long wavelength cones, each sensitive to wavelengths that correspond roughly to blue, green, and red channels.&lt;/p&gt;
+&lt;p&gt;We mathematically model this for digital display by projecting the spectrum onto a three‑dimensional color space. Projecting an infinite‑dimensional spectrum onto a three‑dimensional space results in the loss of information and leads to &lt;strong&gt;metamers&lt;/strong&gt; (different spectra with the same RGB).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -16,4 +16,4 @@ markup:
             - ["\\(", "\\)"]
 params:
   math: true
-  hideefooter: true
+  hidefooter: true
