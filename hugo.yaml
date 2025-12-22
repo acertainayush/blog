@@ -17,3 +17,17 @@ markup:
 params:
   math: true
   hidefooter: true
+  mainSections: ["posts"]
+
+  profileMode:
+    enabled: true 
+    imageUrl: "/pfp.png" # optional
+    imageTitle: "<profile photo>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Posts
+        url: "posts/"
+  socialIcons: # optional
+    - name: "Instagram"
+      url: "https://www.instagram.com/therealministryofayush/"
