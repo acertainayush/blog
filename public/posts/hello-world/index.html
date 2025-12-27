@@ -139,8 +139,10 @@ We mathematically model this for digital display by projecting the spectrum onto
 <p>In 1931, the CIE established color spaces that define this relation.</p>
 <p>The trichromatic values from spectral data are calculated as follows:</p>
 \[
-X = \int R(\lambda)\,\bar{x}(\lambda)\,d\lambda,\quad
-Y = \int R(\lambda)\,\bar{y}(\lambda)\,d\lambda,\quad
+X = \int R(\lambda)\,\bar{x}(\lambda)\,d\lambda
+\]\[
+Y = \int R(\lambda)\,\bar{y}(\lambda)\,d\lambda
+\]\[
 Z = \int R(\lambda)\,\bar{z}(\lambda)\,d\lambda
 \]<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>    delta_lambda <span style="color:#f92672">=</span> wavelengths[<span style="color:#ae81ff">1</span>] <span style="color:#f92672">-</span> wavelengths[<span style="color:#ae81ff">0</span>]
 </span></span><span style="display:flex;"><span>    S <span style="color:#f92672">=</span> reflectance <span style="color:#f92672">*</span> illuminant  <span style="color:#75715e"># effective spectrum under D65</span>

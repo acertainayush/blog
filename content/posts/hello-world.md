@@ -16,10 +16,17 @@ In 1931, the CIE established color spaces that define this relation.
 The trichromatic values from spectral data are calculated as follows:
 
 \[
-X = \int R(\lambda)\,\bar{x}(\lambda)\,d\lambda,\quad
-Y = \int R(\lambda)\,\bar{y}(\lambda)\,d\lambda,\quad
+X = \int R(\lambda)\,\bar{x}(\lambda)\,d\lambda
+\]
+
+\[
+Y = \int R(\lambda)\,\bar{y}(\lambda)\,d\lambda
+\]
+
+\[
 Z = \int R(\lambda)\,\bar{z}(\lambda)\,d\lambda
 \]
+
 
 ```python 
     delta_lambda = wavelengths[1] - wavelengths[0]
