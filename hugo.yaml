@@ -28,6 +28,8 @@ params:
     buttons:
       - name: Posts
         url: "posts/"
+      - name: Self-hatred
+        url: "self-hatred/"
   socialIcons: # optional
     - name: "Instagram"
       url: "https://www.instagram.com/therealministryofayush/"
