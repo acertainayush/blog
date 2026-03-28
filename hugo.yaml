@@ -28,8 +28,8 @@ params:
     buttons:
       - name: Posts
         url: "posts/"
-      - name: Self-hatred
-        url: "self-hatred/"
+      - name: Update
+        url: "Update/"
   socialIcons: # optional
     - name: "Instagram"
       url: "https://www.instagram.com/acertainaysh/"
