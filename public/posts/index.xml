@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on acertainayush</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://www.slightlyconfused.org/posts/</link>
     <description>Recent content in Posts on acertainayush</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Dec 2025 22:25:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.slightlyconfused.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linking Digital Image Operations to Physics</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>http://www.slightlyconfused.org/posts/hello-world/</link>
       <pubDate>Mon, 22 Dec 2025 22:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>http://www.slightlyconfused.org/posts/hello-world/</guid>
       <description>&lt;p&gt;What we perceive as color is electromagnetic radiation coming off a surface as a spectral power distribution. A tomato appears red because its surface reflects radiation mostly around 700 nm.&lt;/p&gt;
 &lt;p&gt;The human eye has three kinds of color‑sensitive cells for perceiving color: short, medium, and long wavelength cones, each sensitive to wavelengths that correspond roughly to blue, green, and red channels.&lt;/p&gt;
 &lt;p&gt;We mathematically model this for digital display by projecting the spectrum onto a three‑dimensional color space. Projecting an infinite‑dimensional spectrum onto a three‑dimensional space results in the loss of information and leads to &lt;strong&gt;metamers&lt;/strong&gt; (different spectra with the same RGB).&lt;/p&gt;</description>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>acertainayush</title>
-    <link>http://localhost:1313/</link>
+    <link>http://www.slightlyconfused.org/</link>
     <description>Recent content on acertainayush</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2026 04:18:29 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.slightlyconfused.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good sleep</title>
-      <link>http://localhost:1313/update/sleep/</link>
+      <link>http://www.slightlyconfused.org/update/sleep/</link>
       <pubDate>Sun, 29 Mar 2026 04:18:29 +0530</pubDate>
-      <guid>http://localhost:1313/update/sleep/</guid>
+      <guid>http://www.slightlyconfused.org/update/sleep/</guid>
       <description>&lt;p&gt;Yesterday I slept a pleasant sleep. I had not slept the night before. They had Dosa for breakfast at the mess. It was good. I had established myself on the mattress I had put on the floor two days ago and it was around 2 PM I think when I dozed off trying to watch Moonrise Kingdom. The three hour nap like sleep felt heavenly. I had not slept this good in a long time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The gist more or less</title>
-      <link>http://localhost:1313/update/sadness2/</link>
+      <link>http://www.slightlyconfused.org/update/sadness2/</link>
       <pubDate>Sat, 28 Mar 2026 09:29:57 +0530</pubDate>
-      <guid>http://localhost:1313/update/sadness2/</guid>
+      <guid>http://www.slightlyconfused.org/update/sadness2/</guid>
       <description>&lt;p&gt;Disoriented. Confused. I was told that writing helps. I can’t write for the life of me but do I have anything to lose? Each day begins quite late. Late afternoon or sometimes evening. First thought on waking up - I want a cigarette. After having the cigarette I (try to) eat. I feel empty again. I feel empty all the time. Psychoactive substances are a pleasant escape. The real dread comes when I don’t have them at my disposal. Day changes to night, and around midnight I am more confused than ever. What to do now? Will talking to humans help? It does help me escape temporarily from the constant sadness. Then comes morning. Not having slept in the night I am quick to fall asleep mainly from exhaustion. And the circus goes on. Has been going on for as long as I can remember. As a kid I was not very happy. Home was never really a happy place. Friends, mass media and internet provided the escape I needed to not become suicidal. As an adult who is nearing graduation I find myself having to face everything that I had been avoiding fior the last few years - The need for a purpose, and for a friend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to perform terribly on an exam</title>
-      <link>http://localhost:1313/update/sadness/</link>
+      <link>http://www.slightlyconfused.org/update/sadness/</link>
       <pubDate>Wed, 25 Mar 2026 04:01:07 +0530</pubDate>
-      <guid>http://localhost:1313/update/sadness/</guid>
+      <guid>http://www.slightlyconfused.org/update/sadness/</guid>
       <description>&lt;p&gt;Consume an insane amount of coffee. Become irritable anxious sleep deprived angry and sad. Introduce nicotine into the party. Run out of cigarettes. Crave for more. Keep craving. Call random people for cigarettes. There is no exam. Don’t go to the exam. Feel bad about it later. Consume more substances to cope.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linking Digital Image Operations to Physics</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>http://www.slightlyconfused.org/posts/hello-world/</link>
       <pubDate>Mon, 22 Dec 2025 22:25:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>http://www.slightlyconfused.org/posts/hello-world/</guid>
       <description>&lt;p&gt;What we perceive as color is electromagnetic radiation coming off a surface as a spectral power distribution. A tomato appears red because its surface reflects radiation mostly around 700 nm.&lt;/p&gt;
 &lt;p&gt;The human eye has three kinds of color‑sensitive cells for perceiving color: short, medium, and long wavelength cones, each sensitive to wavelengths that correspond roughly to blue, green, and red channels.&lt;/p&gt;
 &lt;p&gt;We mathematically model this for digital display by projecting the spectrum onto a three‑dimensional color space. Projecting an infinite‑dimensional spectrum onto a three‑dimensional space results in the loss of information and leads to &lt;strong&gt;metamers&lt;/strong&gt; (different spectra with the same RGB).&lt;/p&gt;</description>

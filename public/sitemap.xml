@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://www.slightlyconfused.org/</loc>
     <lastmod>2026-03-29T04:18:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/update/sleep/</loc>
+    <loc>http://www.slightlyconfused.org/update/sleep/</loc>
     <lastmod>2026-03-29T04:18:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/update/</loc>
+    <loc>http://www.slightlyconfused.org/update/</loc>
     <lastmod>2026-03-29T04:18:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/update/sadness2/</loc>
+    <loc>http://www.slightlyconfused.org/update/sadness2/</loc>
     <lastmod>2026-03-28T09:29:57+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/update/sadness/</loc>
+    <loc>http://www.slightlyconfused.org/update/sadness/</loc>
     <lastmod>2026-03-25T04:01:07+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>http://www.slightlyconfused.org/posts/hello-world/</loc>
     <lastmod>2025-12-22T22:25:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://www.slightlyconfused.org/posts/</loc>
     <lastmod>2025-12-22T22:25:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://www.slightlyconfused.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://www.slightlyconfused.org/tags/</loc>
   </url>
 </urlset>

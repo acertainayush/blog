@@ -29,7 +29,7 @@ params:
       - name: Posts
         url: "posts/"
       - name: Update
-        url: "Update/"
+        url: "update/"
   socialIcons: # optional
     - name: "Instagram"
       url: "https://www.instagram.com/acertainaysh/"
