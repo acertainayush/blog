@@ -1,10 +1,8 @@
 ---
 date: '2026-01-06T22:10:39+05:30'
 draft: false
-title: 'Moka'
+title: 'Moka tips'
 ---
-
-My Ideal Moka Pot coffee preparation:
 
 Pour boiling water into a cold base.
 
